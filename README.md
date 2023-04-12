@@ -4,6 +4,12 @@
 
 This week's task is to create a quiz template in javascript that updates the HTML as the quiz progresses. User story and acceptance criteria included below.
 
+## Links
+
+https://cm-thom.github.io/04-code-quiz/
+
+https://github.com/cm-thom/04-code-quiz
+
 ## User Story
 
 ```
