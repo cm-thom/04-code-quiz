@@ -1,0 +1,31 @@
+* {
+    border: 1px red solid;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+#timer {
+    display: flex;
+    justify-content: end;
+    font-size: 36px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.hide {
+    display: none;
+}
+
+#quizContainer {
+    background-color: aqua;
+}
+
+.radio-btn-ans {
+    display: block;
+}
