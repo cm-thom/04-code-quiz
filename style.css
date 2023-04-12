@@ -23,9 +23,22 @@ main {
 }
 
 #quizContainer {
+    width: 50%;
     background-color: aqua;
 }
 
-.radio-btn-ans {
+.ans-btn {
     display: block;
+}
+
+#ansChoices {
+    display: grid;
+    width: 50%;
+    grid-template-columns: repeat(2, auto);
+    gap: 15px;
+    margin: 15px;
+}
+
+#submit-btn {
+    margin: 15px;
 }
